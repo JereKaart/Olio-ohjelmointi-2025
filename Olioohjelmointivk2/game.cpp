@@ -6,6 +6,7 @@ Game::Game(int num)
 {
     cout << "Constructor kutsuttu" << endl;
     maxNumber = num;
+    randomNumber = 0;
 };
 
 Game::~Game()
