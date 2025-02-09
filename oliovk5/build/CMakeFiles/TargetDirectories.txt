@@ -1,0 +1,7 @@
+C:/Olio-ohjelmointi tehtävät/oliovk5/build/CMakeFiles/oliovk5.dir
+C:/Olio-ohjelmointi tehtävät/oliovk5/build/CMakeFiles/edit_cache.dir
+C:/Olio-ohjelmointi tehtävät/oliovk5/build/CMakeFiles/rebuild_cache.dir
+C:/Olio-ohjelmointi tehtävät/oliovk5/build/CMakeFiles/list_install_components.dir
+C:/Olio-ohjelmointi tehtävät/oliovk5/build/CMakeFiles/install.dir
+C:/Olio-ohjelmointi tehtävät/oliovk5/build/CMakeFiles/install/local.dir
+C:/Olio-ohjelmointi tehtävät/oliovk5/build/CMakeFiles/install/strip.dir
