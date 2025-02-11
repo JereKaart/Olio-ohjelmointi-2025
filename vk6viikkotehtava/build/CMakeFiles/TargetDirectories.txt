@@ -1,0 +1,7 @@
+C:/Olio-ohjelmointi tehtävät/vk6viikkotehtava/build/CMakeFiles/vk6viikkotehtava.dir
+C:/Olio-ohjelmointi tehtävät/vk6viikkotehtava/build/CMakeFiles/edit_cache.dir
+C:/Olio-ohjelmointi tehtävät/vk6viikkotehtava/build/CMakeFiles/rebuild_cache.dir
+C:/Olio-ohjelmointi tehtävät/vk6viikkotehtava/build/CMakeFiles/list_install_components.dir
+C:/Olio-ohjelmointi tehtävät/vk6viikkotehtava/build/CMakeFiles/install.dir
+C:/Olio-ohjelmointi tehtävät/vk6viikkotehtava/build/CMakeFiles/install/local.dir
+C:/Olio-ohjelmointi tehtävät/vk6viikkotehtava/build/CMakeFiles/install/strip.dir
